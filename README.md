@@ -4,7 +4,7 @@ The Responsive Sidebar Menu tutorial offers a comprehensive guide to creating a 
 
 Youtube Tutorial Link: https://youtu.be/MpVvNCEVcuc
 ---
-- ![Live link](https://sidebar-react-snowy.vercel.app/)
+- ![Live link](https://sidebar-react-snowy.vercel.app)
 
 ![Sidebar Menu](images/ResponsiveSidebarMenu.png)
 
