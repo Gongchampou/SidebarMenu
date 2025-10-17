@@ -2,8 +2,8 @@
 
 The Responsive Sidebar Menu tutorial offers a comprehensive guide to creating a dynamic and user-friendly sidebar menu for web applications using HTML, CSS, and JavaScript. This project focuses on building a dashboard sidebar menu that seamlessly adapts to different screen sizes, ensuring a consistent and intuitive navigation experience across devices.
 
-Youtube Tutorial Link: https://youtu.be/MpVvNCEVcuc
-Live Link: https://sidebar-react-snowy.vercel.app/
+- Youtube Tutorial Link: https://youtu.be/MpVvNCEVcuc
+- Live Link: https://sidebar-react-snowy.vercel.app/
 
 ![Sidebar Menu](images/ResponsiveSidebarMenu.png)
 
